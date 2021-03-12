@@ -7,7 +7,6 @@
   ],
   "logo": "https://raw.githubusercontent.com/self-destruction/mc-srv-test/master/logo.jpg",
   "repository": "https://github.com/self-destruction/mc-srv-test",
-  "stack": "heroku-18",
   "env": {
     "MINECRAFT_EULA": {
       "description": "Do you accept the Minecraft EULA?",
